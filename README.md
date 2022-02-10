@@ -1,1 +1,1 @@
-Happy to Learn :) from JavaScript Mastery
+Happy to learn :) from JavaScript Mastery
